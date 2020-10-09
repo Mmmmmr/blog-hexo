@@ -4,18 +4,18 @@
 
 # Site
 title: Mmmmmr's Blog
-subtitle: "Mmmmmr's Blog"
-description: ""
-keywords:
+subtitle: "Stay Hungry Stay Foolish"
+description: "Mmmmmr个人站，主要涉及前端知识共享、实践教程、前沿技术共同学习等方面"
+keywords: blogs
 author: Mmmmmr
 language: en
-timezone: ""
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: http://example.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
